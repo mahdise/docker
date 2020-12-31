@@ -3,7 +3,7 @@
 ## Regular flowchart
 Hardware --- Host OS --- Hypervisor --- Guest OS (Image)<br />
 
-Multiple applications
+Multiple applications <br />
 Hardware --- Host OS --- Hypervisor --- [ Guest OS (Image), Guest OS (Image), Guest OS (Image) ]
                                     
 -- 
