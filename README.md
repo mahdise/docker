@@ -1,11 +1,10 @@
 # Docker
 
 ## Regular flowchart
-Hardware --- Host OS --- Hypervisor --- Guest OS (Image)
+Hardware --- Host OS --- Hypervisor --- Guest OS (Image)<br />
+
 Multiple applications
-Hardware --- Host OS --- Hypervisor --- Guest OS (Image)
-                                    --- Guest OS (Image)
-                                    --- Guest OS (Image)
+Hardware --- Host OS --- Hypervisor --- [ Guest OS (Image), Guest OS (Image), Guest OS (Image) ]
                                     
 -- 
 - Wasting Resources (Hardware, CPU, RAM )            
