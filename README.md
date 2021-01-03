@@ -18,7 +18,7 @@ Hardware --- Host OS --- Docker --- Container (Image)<br />
 Hardware --- Host OS --- Docker --- [ Container OS (Image), Container OS (Image), Container OS (Image) ]
 
 ## Approches 
-- Compose and Django <br /> 
+- **Compose and Django** <br /> 
 In this approaches, we need to create container frist then create django project. <br />
 Container --Create imgae into container ( Django project )
     - Create an empty project directory.
@@ -63,7 +63,7 @@ Container --Create imgae into container ( Django project )
     
     Refrence :  [ Docker docs ]( https://docs.docker.com/compose/django/).
 
-- Dockerizing Django Web Application
+- **Dockerizing Django Web Application**
 
 In this approaches, we need to clone or create django app then need to docerize. <br />
 Django app -- Docerize
