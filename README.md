@@ -63,16 +63,13 @@ Container --Create imgae into container ( Django project )
     
     Refrence :  [ Docker docs ]( https://docs.docker.com/compose/django/).
 
-- **Dockerizing Django Web Application**
+- **Dockerizing Django Web Application** <br />
 
 In this approaches, we need to clone or create django app then need to docerize. <br />
-Django app -- Docerize
-    - will be add later
+Django app -- Dockerize
 
+Here also we need to create Dockerfile and docker-compose.yml need to give respective path.
 
-       
-
-        
 
 
 
